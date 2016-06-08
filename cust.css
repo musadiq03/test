@@ -1,0 +1,72 @@
+.log
+{
+	margin: 100px 0px 0 260px;
+
+}
+panel-body .color
+{
+	background: blue;
+}
+.form-control-cust{display:block;
+	width:50%;
+	height:34px;padding:6px 12px;
+	font-size:14px;
+	line-height:1.42857143;color:#555;
+	background-color:#fff;
+	background-image:none;
+	margin: 0 0 0 282px;
+	border:1px solid #ccc;
+	border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);
+	box-shadow:inset 0 1px 1px rgba(0,0,0,.075);
+	-webkit-transition:border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+	-o-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}
+	.col-sm-1-cust
+	{width:8.33333333%;
+	display: inline;
+	margin-top: 2500px;
+
+	}
+
+	.main
+	{
+background-color:  ; 
+height: 50%;
+ column-width: 10%; 
+display: inline;
+ border: solid: 0px; 
+margin-left: 20px; 
+padding-right: 61px;
+text-align: left;
+f
+border-collapse: collapse;
+}
+
+.cell
+ {
+    background-color: #f2f2f2;border: 0px solid black; width: 73%; height: 25%; display: inline-grid; margin-left: 25%;text-align: left;
+}
+
+.cell:nth-child(odd){background-color: white;}
+	.main1
+	{
+background-color:  ; 
+height: 50%;
+ column-width: 10%; 
+display: inline;
+ border: solid: 0px 
+padding-right: 20px;
+text-align: left;
+float: right;
+margin-right: 20px;
+border-collapse: collapse;
+padding-right: 40px;
+}
+
+.cell .main {
+	width: 10%;
+}
+a.disabled {
+   pointer-events: none;
+   cursor: default;
+}
